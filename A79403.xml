@@ -1,0 +1,197 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The most heavenly and Christian speech of the magnanimous and victorious King of Svveden, Carlous Gustavus Adolphus on his death-bed. In His royal palace of Gottenburg on the 10th. of February last, three daies before his most untimely and much lamented death. Together vvith his last advice and counsel to his nobles, the lords of his privy council, and the chief commanders of war for concluding a peace with the King of Denmark on the conditions of honor and safety, or otherwise for the prosecuting the war with greater vigor. Faithfully translated out of High-Dutch.</title>
+            <author>Charles X Gustav, King of Sweden, 1622-1660.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 16 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A79403</idno>
+            <idno type="STC">Wing C3655</idno>
+            <idno type="STC">Thomason E1017_22</idno>
+            <idno type="STC">ESTC R208040</idno>
+            <idno type="EEBO-CITATION">99867046</idno>
+            <idno type="PROQUEST">99867046</idno>
+            <idno type="VID">168824</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A79403)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 168824)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 151:E1017[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The most heavenly and Christian speech of the magnanimous and victorious King of Svveden, Carlous Gustavus Adolphus on his death-bed. In His royal palace of Gottenburg on the 10th. of February last, three daies before his most untimely and much lamented death. Together vvith his last advice and counsel to his nobles, the lords of his privy council, and the chief commanders of war for concluding a peace with the King of Denmark on the conditions of honor and safety, or otherwise for the prosecuting the war with greater vigor. Faithfully translated out of High-Dutch.</title>
+                  <author>Charles X Gustav, King of Sweden, 1622-1660.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for Tho. Vere, at the sign of the Angel without Newgate,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "March. 19. 1659"; also the last two numbers of the imprint date have been marked through.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  X Gustav, --  King of Sweden, 1622-1660 --  Early works to 1800.</term>
+               <term>Last words --  Early works to 1800.</term>
+               <term>Sweden --  History --  17th Century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2013-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:168824:1" rendition="simple:additions"/>
+            <p>The moſt Heavenly and Chriſtian SPEECH OF The Magnanimous and Victorious King of <hi>SVVEDEN,</hi> Carolus Guſtavus Adolphus on his DEATH-BED. IN His Royal Palace of <hi>Gottenburg</hi> on the 10<hi rend="sup">th</hi>. of <hi>February</hi> laſt, three daies before his moſt untimely and much lamented death. TOGETHER With his laſt Advice and Counſel to his Nobles, the Lords of his Privy Council, and the chief Commanders of War for conclu<g ref="char:EOLhyphen"/>ding a Peace with the King of <hi>Denmark</hi> on the Conditions of Honor and Safety, or other<g ref="char:EOLhyphen"/>wiſe for the proſecuting the War with greater Vigor</p>
+            <p>Faithfully tranſlated out of <hi>High-Dutch.</hi>
+            </p>
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Tho. Vere,</hi> at the ſign of the Angel without Newgate. 1660.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:168824:2"/>
+            <pb n="3" facs="tcp:168824:2"/>
+            <head>The laſt words of the King of <hi>Sweden,</hi> on his Death<g ref="char:EOLhyphen"/>bed, in his royal palace at <hi>Gottenburg,</hi> before the Lords of his privy Council, on Friday the <hi>10.</hi> of <hi>February.</hi> There being preſent, Monſier <hi>Trelon,</hi> Ambaſſadour of <hi>France,</hi> Sir <hi>George Ayſcough,</hi> a<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> many other honorable perſonages.</head>
+            <p>
+               <seg rend="decorInit">T</seg>He Spirits of his Majeſty of <hi>Sweden,</hi> which, like a how continually bended, found no relaxation, did in the midſt of the month of <hi>January,</hi> bring a feaver on his body, which firſt confined him to his Chamber, and afterwards to his bed; his late loſſes, but eſpecially that at <hi>Fuenen,</hi> kept his mind in a perpetual agitation, and his courage to overcome all difficulties, did ſo prevaile upon him, that it brought with it the violence of a diſeaſe, by denying him the benefit of ſleep; his diſ<g ref="char:EOLhyphen"/>eaſe which was but a tame Ague at the firſt, did by degrees become ſo predominant, that his Doctors of Phyſick, (the moſt learned on that ſide of <hi>Europe</hi>) began to diſpaire of his recovery.</p>
+            <p>It pleaſed God that at that time he had called together at <hi>Gottenburg,</hi> a council of the moſt apparent of all his Nobility of <hi>Sweadland.</hi> Proviſſion was there made for carrying on the War with more vigour, againſt the Emperour, the King of <hi>Denmark,</hi> and the Marquis of <hi>Brandenburgh,</hi> there potent Enemies, who had attaqued him in <hi>Pruſſia, Pomerania,</hi> and in the Frontiers of <hi>Swed<g ref="char:EOLhyphen"/>land,</hi> and given him a memorial overthrow in the <hi>Iſland</hi> of <hi>Fue<g ref="char:EOLhyphen"/>nen.</hi> Queen <hi>Mary</hi> of <hi>England,</hi> whoſe raign was as ſhort, as this King of <hi>Swedlands,</hi> was oftentime heard to ſpeak in the fits of her deepeſt Melancholly, that when ſhe was diſſected being dead, they ſhould find <hi>Calis</hi> ingraven in her heart, I forbear to make any addreſs of Application, but certain it is, that at this Council the Lords of <hi>Swedland,</hi> following the diſpoſition, and conſtitution of their King did reſolve, th<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t every third man in the Kingdom of <hi>Sweden,</hi> ſhould put on Armes for the defence and propagation of their Countries Liberties It was reſolved that ſeveral Regements both of horſe and foot, ſhould be formed out of <hi>Lapland, Gothland,</hi> and <hi>Vandals,</hi> which on the beginning of the Spring, ſhould like a Tempeſt come Thundering in, into the
+<pb n="4" facs="tcp:168824:3"/>deſolate Dominions of <hi>Powerland,</hi> and <hi>Pruſſia,</hi> and having redu<g ref="char:EOLhyphen"/>ced thoſe places, ſhould carry the war into the heart of the Em<g ref="char:EOLhyphen"/>pire.</p>
+            <p>This was agreeable unto all, and there was no other diſcourſe heard of from <hi>Gottenburg,</hi> until you come to <hi>Stockhalme.</hi> In the mean time it pleaſed God, that the health of the King was every day weaker then other, although he wanted for no encourage<g ref="char:EOLhyphen"/>ments. His Commanders were every day to att<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd him with their Reſolutions; his Phyſitians with their Cordials, and his Divines with their counſels, but ſleep being a ſtranger to his bo<g ref="char:EOLhyphen"/>dy, his body began to be a ſtranger, and to abandon the acquain<g ref="char:EOLhyphen"/>tance of his ſoul. It is a wonderful thing to conſider in how cloſe a twiſt of reſpondency that ſleep and health are united, although that one of them is the Emblem of death, and the other of Im<g ref="char:EOLhyphen"/>mortality.</p>
+            <p>On <hi>Friday Feburary</hi> the tenth, his Majeſty of <hi>Sweden,</hi> by the ſtrength of his weakneſs perceiving the weakneſs of his ſtrength, and finding nothing perfect in himſelf, but his <hi>Vprightneſs</hi> and his <hi>Memory,</hi> he commanded that his Councilors, and Lords of <hi>Sweden,</hi> ſhould be called before him, who accordingly having made their appearance, he did raiſe himſelf a little from his bed, and with a countenance more chearful then ordinary, he expreſſed himſelf unto them in theſe words, My Lords, my faithful Councelours, and Deer Allyes.</p>
+            <p>Many years are not yet paſſed, ſince by the guift of my re<g ref="char:EOLhyphen"/>nowned kinſwoman Queen <hi>Chriſtina,</hi> the crown of <hi>Sweadland,</hi> hath been devolved on me, it hath been my indeavour to follow the example of my famous Pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eceſſours, which was to enlarge as much as to defend their Dominions; With what ſucceſſe I made war firſt in <hi>Bremen,</hi> and afterwards in <hi>Poland,</hi> I believe there is no part in the world is ignorant. By the combinations, and ſe<g ref="char:EOLhyphen"/>cret practiſes of ſome Enemies neerer home, I was called from thence into <hi>Denmark,</hi> where havin both the King himſelf and his Kingdome at my mercy, I granted him peace, and contented with the glory of the Conqueſt, I remitted to him the fruition of his Kingdoms. But he to require ſo great a f<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>vour entred pre<g ref="char:EOLhyphen"/>ſently into a league with the <hi>Hollander,</hi> and the Emperour to the apparent prejudice of the Crown of <hi>Sweden,;</hi> This cauſed me preſently to return with my forces to <hi>Denmark,</hi> being much in<g ref="char:EOLhyphen"/>couraged in it by the late <hi>Protector</hi> of <hi>England,</hi> had I not been
+<pb n="5" facs="tcp:168824:3"/>interrupted in my proceedings, by the Fleet of <hi>Holland,</hi> I had undoubtedly put a good period to that war, and made both the Emperor and the King of <hi>Denm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rk,</hi> to feel the effects of my power; I ſhall here make no mention of my Coſin, the <hi>Marquis</hi> of <hi>Brandenburg,</hi> of whom I expected better things, neither too heavily will I ſay the misfortune in <hi>Pomerania,</hi> to the neglect of my Brother Prince <hi>Adolphus,</hi> yet I muſt needs ſay, that I am con<g ref="char:EOLhyphen"/>fident the affaires there had been carried more to my honor, and advantage, if he had executed the inſtructions which I gave him.</p>
+            <p>That which leaveth the greateſt impreſſion of grief upon my ſoul, is the loſs ſuſtained at <hi>Fuenen,</hi> and the impriſonment of ma<g ref="char:EOLhyphen"/>ny of my eminent Commanders now at <hi>Gluck<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>tadt,</hi> but I hope (my Lord <hi>Ambaſſadour</hi>) that the monies promiſed from your Maſter the King of <hi>France,</hi> will be either a ſpeedy ranſome for them, or an aſſiſtance unto you to force open the gates of <hi>Gluckstadt,</hi> for their deliverance.</p>
+            <p>My deſire is, that my moſt deer Lady the Queen, may be Re<g ref="char:EOLhyphen"/>gent after me, during the minority of my Son, to whom I do be<g ref="char:EOLhyphen"/>ſeech God to be a father. I leave unto you the management of all affaires, both ſpiritual and civil, conjuring you to be zealous unto God, dutiful to your Queen, and faithful to one another.</p>
+            <p>I muſt commend unto your greateſt care, the peace with the King of <hi>Denmark,</hi> of which already ſome overtures have been made, but I would have it to be ſuch a peace as may be moſt ad<g ref="char:EOLhyphen"/>vantagious to you, without the leaſt blemmiſh or tincture of diſ<g ref="char:EOLhyphen"/>honour. And becauſe we have already found him ſo uncertain, I would adviſe you to keep <hi>Elſenour,</hi> and <hi>Cronenburg,</hi> as Caution Towns for the performance of his promiſes.</p>
+            <p>As for the late renowned Queen of <hi>Sweden</hi> now at <hi>Rome,</hi> I have ſomething to ſpeak in relation to her, and her Dowry in great danger, by the ruine of <hi>Pomerania,</hi> but — Here his ſpirits fainting away, he ſunk down on his bed, but he was immediate<g ref="char:EOLhyphen"/>ly recovered by ſome excellent hot waters, that were adminiſtred to him, while his Lords and Councilours that ſtood round about him, did drink hot watess as well as himſelf, but it was from the abundance of the teares that did flow from their eyes.</p>
+            <p>The King after a little pauſe, having again raiſed himſelf, with a ſerious eye did look upon them all, and obſerving rain within door, and none without, he ſeemed to be much diſcontented at it, and thus again proceeded in his diſcourſe.</p>
+            <pb n="6" facs="tcp:168824:4"/>
+            <p>
+               <hi>I</hi> have hitherto ſpoken to you as a King, I ſhall now ſpeak to you as a Chriſtian; Death is only terrible to the wicked, and it is not ſo much the fear of Death, as the ſence of hell that is ſo terri<g ref="char:EOLhyphen"/>ble to them, the apprehenſion of the torment of the one ſwallows up the terror of the other. Did ever any man on the rack afflict himſelf, becauſe his Miſtreſs ſlighted him? did ever man that attai<g ref="char:EOLhyphen"/>ned unto vaſt poſſeſſions, and was condemned to dye for blood<g ref="char:EOLhyphen"/>ſhed and Extortion, call for the particulars of his purchaſe upon the Gallows? The apprehenſion and horror of being damned (I do not ſay) will cure all other ſadneſs, but certainly it will ſwal<g ref="char:EOLhyphen"/>low it up, But I who by the mirits of my Redeemer, who by the grace of the Lord Jeſus, do believe I ſhall be ſaved, I do deſire you to conſider with me, how great is my joy? how infinite my advantage is by this Exchange? How unſpeakable is the glory, and how excellent is the recompence for all the hard Marches, and the ſufferings in this world?</p>
+            <p>My Lords! Take the counſel with you of your dying Prince, let us prepare our ſelves againſt changes, always expecting them, that ſo we be not ſurpriſed when they come; Oh death how bitter art thou to a man who hath promiſed to himſelf eaſe and fulneſs, by his large poſſeſſions, and to enjoy it for many years! it was a ſad Arreſt, that his ſoul was ſurpriſed the firſt night.</p>
+            <p>Conſider with me, that afflictions are often the occaſion of great ſpiritual advantages; We muſt not look upon them, as they ſit heavy upon us, but as they ſerve unto Gods ends, and the pur<g ref="char:EOLhyphen"/>poſe of his eternal providence; When a Prince fights juſtly, but unſucceſſully; Could he but ſee the reaſon for which God did ſo order it, he would find it unreaſonable, nay ill, to have it other<g ref="char:EOLhyphen"/>wiſe. If a man could have opened but one of the pages of the Di<g ref="char:EOLhyphen"/>vine counſail, and obſerved the event of <hi>Joſephs</hi> being ſold to the Merchants of <hi>Amaleck,</hi> he might with much reaſon have dryed up the young mans tears; God eſteemeth it one of his glories, to bring good out of evil; And therefore it is but reaſon that we ſhould leave unto God the Government of his own world, as he himſelf pleaſeth, and that we ſhould patiently wait till the change commeth, and not envy the happineſs, and proſperity of our enemies, <hi>fret not thy ſelf</hi> (ſaith that kingly Prophet) <hi>becauſe of him who proſpereth in his ways, becauſe of him who bringeth wicked devices to paſs for evil doers at the laſt, ſhall be rooted out, but thoſe that weight upon the Lord ſhal ſtand like Mount</hi> Sion, <hi>that cannot be ſhaken</hi>
+            </p>
+            <pb n="7" facs="tcp:168824:4"/>
+            <p>The Laſt great trial is Death, for which ſhould we grieve, it would be of all greifes the moſt unreaſonable; For why ſhould we grieve at that which is ſo abſolutely unavoydable? It is not ſo much to be cared for how long we live, as how well we live, for that life is not beſt which is the longeſt, but that which is moſt vertuous, and honourable: The ſhortning of our dayes, is an evil, wholy depending upon opinion, let us ſtill be ready for death, and it cannot come too ſoon, for let us dye young or old, we have ſtill an immortal ſoul, and do lay down our bodyes onely for a time, as that which was the inſtrument of our cares and troubles, and the ſcene of ſickneſs, and diſeaſe; Let us not then (my Lords) fear that which riddeth us of all theſe infirmities, for by fearing it, we ſhall never the ſooner avoid it, but make it more miſerable. To dye is natural and neceſſary, but to dye poorly and baſely, is that alone which can make a man miſerable. No man can be a ſlave, but he who feareth pain, or who feareth to dye, to ſuch a man nothing but peaceable times can denote his inclinations, or his duty, he dependeth onely on external things for his felicity, and therefore is no longer well, then during the pleaſure of his Enemy, a Theife or a Tyrant.</p>
+            <p>But bleſſed is he who willingly reſigneth his ſoul into the hand of God which gave it, as into the hands of a bleſſed Creator, and Redeemer: O bleſſed Jeſus thou didſt dye for me; grant that with joy I may ſubmit to thy Summons, for thou art as well my Advo<g ref="char:EOLhyphen"/>cate as my Judge, and cameſt into the world to ſave ſinners; I ac<g ref="char:EOLhyphen"/>knowledg O Lord I am a great ſinner, but thy mercies are infi<g ref="char:EOLhyphen"/>nite. O God of mercy, and Father of all comfort, look upon the ſadneſs, and the ſorrowes of thy ſervant; my ſins lye heavy up<g ref="char:EOLhyphen"/>on me, and preſs me ſore, by reaſon of thy hot diſpleaſure. My af<g ref="char:EOLhyphen"/>fflictions ſeem to be without comfort, becauſe they are the puniſh<g ref="char:EOLhyphen"/>ments of my ſins; My ſins have cauſed my ſorrow, yet my ſorrow doth not cure my ſins; and unleſs thou, O Lord, for thy own ſake, and meerly becauſe thou art good, art pleaſed to pitty me, I ſhall be left forlorn, and as much without remedy as without comfort, Lord therefore pitty me; I deny my ſelf, and wholy depend on thee, and on the blood and merits of my redeemer: Let thy grace refreſh my ſpirit, thy comforts ſupport me, and thy mercies pardon me, for thou art g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>od and gracious, and I throw my ſelf upon thy mercies. Suffer me not to let go my hold, and do thou with me, as ſeemeth good in thine own eyes. Thou art in finitely
+<pb n="8" facs="tcp:168824:5"/>more merciful then I can be miſerable; O Lord make me the ob<g ref="char:EOLhyphen"/>ject of thy mercies as well in my death, as in my life; And if even in this hour ſhall be pleaſed to remove me from this vale of miſe<g ref="char:EOLhyphen"/>ry, when my poor ſoul ſhall go out of the priſon of this body, may it be received by Angels, and preſerved from the horror and ſurprizal of evil ſpirits, and be laid up in the boſome of our Lord, until the day of thy ſecond comming, when it ſhall be reunited to the body, which is now to be laid in the duſt, yet I doubt not but ſhall be raiſed up in joy, to live for ever, and behold the face of God, in the glories of our Lord Jeſus, who is my Hope, my reſur<g ref="char:EOLhyphen"/>rection, and life, my bleſſed, and ever glorious Redeemer, to whom with the father, and the holy Spirit, be rendred all honour, and glory, now and for evermore.</p>
+            <p>Having ſpoke theſe words, his Lords and privy Counſelours (who ſtood round about his bed) were tranſported with as much admiration, as they were before with grief, and taking at that time, their leave of him, they left him with two of his Chaplains, who never ceaſed to confirme him in his holy and heavenly con<g ref="char:EOLhyphen"/>fidence, and to adminiſter thoſe ſpiritual Conſolations to him which were ſuitable to the Maſter of ſo great a war-fare, who ha<g ref="char:EOLhyphen"/>ving conquered himſelf as well as his Enemies, ſtooped his anoint<g ref="char:EOLhyphen"/>ed head, as low as death, and in the flouriſh of his years, wiſely exchanged a ſea of troubles in this world, for the heaven of eter<g ref="char:EOLhyphen"/>nal reſt, and a temporal Crown for a crown of Immortality.</p>
+            <trailer>The End.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="poem">
+            <head>His EPITAPH.</head>
+            <lg>
+               <l>
+                  <hi>Who lyes within this fatal Ring,</hi>
+               </l>
+               <l>
+                  <hi>The honour of the growing Spring,</hi>
+               </l>
+               <l>
+                  <hi>And Vertue that doth man advance,</hi>
+               </l>
+               <l>
+                  <hi>Who yet this Marble underneath,</hi>
+               </l>
+               <l>
+                  <hi>(in the deſpight of deaths miſchance)</hi>
+               </l>
+               <l>
+                  <hi>Doth valour to the</hi> Swediſh <hi>breath.</hi>
+               </l>
+            </lg>
+         </div>
+      </back>
+   </text>
+</TEI>
